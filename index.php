@@ -1,18 +1,17 @@
 <html>
 <head>
-<title>MATH PT</title>
+<title>MATH</title>
 </head>
 
 <body background="background.jpg">
 <font color=black>
-<h1 align=center>MATH PT</h1>
+<h1 align=center>MATH</h1>
 </font>
-<hr>
-<center>
-<table border=5 bgcolor=pink width=50%>
-<th>MATH PT</th>
-</table>
-</center>
 <hr>
 </body>
 </html>
+<center>
+<table border=5 bgcolor=pink width=50%>
+<th><a href="Homepage.html">HOMEPAGE</a></th>
+</table>
+</center>
